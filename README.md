@@ -1,5 +1,5 @@
 # AnonToolkit
-===========
+
 
 AnonToolkit is a tool developed to enhance privacy, anonymity, and security during browsing. This application contains multiple features that allow users to perform actions such as checking their IP, clearing browsing data, changing the MAC address, and more. The graphical interface is built using the Flet library, providing a user-friendly and intuitive interaction.
 
